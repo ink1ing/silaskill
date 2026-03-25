@@ -1,0 +1,3 @@
+display_name: Safe Mac OpenClaw
+short_description: OpenClaw 的 macOS 精简安全实践
+default_prompt: 为个人 macOS OpenClaw 环境建立一套简洁但可执行的安全框架，优先产出 AGENTS.md 红黄线规则、安装审计要求、权限与哈希基线、夜间巡检方案和最小验证清单。

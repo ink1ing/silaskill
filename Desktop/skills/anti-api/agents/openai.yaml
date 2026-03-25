@@ -1,0 +1,3 @@
+display_name: Anti-API
+short_description: 四个模型提供商的本地额度与模型同步
+default_prompt: 为测试类项目快速配置 Codex、GitHub Copilot、Zed、Antigravity 四个提供商的本地额度、账号导入、模型拉取和路由映射，优先给出最短可执行步骤与验证清单。
